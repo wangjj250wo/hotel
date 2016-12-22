@@ -1,0 +1,8 @@
+[
+  {"href":"food.html?id=1","images":"images/foodList01.png","name":"湘苑食府"},
+  {"href":"food.html?id=2","images":"images/food02.jpg","name":"四季厅"},
+  {"href":"food.html?id=3","images":"images/food01.jpg","name":"会议自助"},
+  {"href":"food.html?id=4","images":"images/food01.jpg","name":"冷餐"},
+  {"href":"food.html?id=5","images":"images/foodList01.png","name":"茶歇"},
+  {"href":"food.html?id=6","images":"images/food02.jpg","name":"大堂吧"}
+]

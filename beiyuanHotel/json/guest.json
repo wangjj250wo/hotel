@@ -1,0 +1,8 @@
+[
+  {"href":"room.html?id=1","imgsrc":"images/guest_01.jpg","name":"豪华套房"},
+  {"href":"room.html?id=2","imgsrc":"images/guest_02.jpg","name":"行政套房"},
+  {"href":"room.html?id=3","imgsrc":"images/guest_03.jpg","name":"豪华大床房"},
+  {"href":"room.html?id=4","imgsrc":"images/guest_04.jpg","name":"精品特色房"},
+  {"href":"room.html?id=5","imgsrc":"images/guest_05.jpg","name":"普通大床房"},
+  {"href":"room.html?id=6","imgsrc":"images/guest_06.jpg","name":"标准双人间"}
+]

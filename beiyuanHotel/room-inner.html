@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <title>立即预定</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="css/room-inner.css" rel="stylesheet">
+    <link href="css/swiper.min.css" rel="stylesheet">
+    <script src="js/jquery-3.1.0.min.js"></script>
+    <script src="js/swiper.min.js"></script>
+    <script src="js/sidebar.js"></script>
+    <script src="js/room-inner.js"></script>
+</head>
+<body>
+
+<div class="swiper-container coc_2">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide content">
+            <div class="commonHeader clearfix">
+                <div class="cBack">
+                    <a href="guest.html"><img src="images/colorArrow.png"></a>
+                </div>
+                <div class="cTitle">客房预订</div>
+                <div class="menu-button">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+            </div>
+
+            <div class="room-inner-banner">
+                <div class="swiper-container">
+                    <div class="swiper-wrapper" id="roominner-banner">
+                        <!--<div class="swiper-slide"><img src="images/room-banner1.jpg"/></div>-->
+                        <!--<div class="swiper-slide"><img src="images/room-banner2.jpg"/></div>-->
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+            <div class="room-inner-take">
+                <h4></h4>
+                <div class="room-inner-take2">
+                    <p>房间数量
+                        <a href="javascript:;" class="a1"><img src="images/r-pre_03.jpg"></a>
+                        <a href="javascript:;" class="a2"><img src="images/r-pre_05.jpg"></a>
+                    </p>
+                    <p>入住时间：2016年10月26日</p>
+                    <p>退房时间：2016年10月27日</p>
+                    <p>备注：<input type="text" placeholder="如有附加需求，请填写" class="input"></p>
+                </div>
+                <div class="room-inner-take3">
+                    <p>联系人：
+                        <input type="text" placeholder="请输入姓名" class="input li">
+                        <input type="radio" value="先生" name="mr" class="mr">先生
+                        <input type="radio" value="女士" name="mr" class="mr">女士
+                    </p>
+                    <p>手机号：<input type="text" placeholder="请输入手机号" class="input"></p>
+                </div>
+            </div>
+            <div class="room-inner-know">
+                <div class="r-header">
+                    <a href="javascript:;" class="ru">入住须知</a>
+                    <a href="javascript:;" class="ke">客房介绍</a>
+                </div>
+                <div class="swiper-container a">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide" >
+                            <p >
+                                - 在未提供公司或信用卡担保的情况下，酒店最多保留预订至到
+                                店当天下午6点（视酒店当日情况而定）<br>
+                                - 在担保情况下更改或取消预订请于到店当天下午6点前通知酒
+                                店，酒店将有权对其未能及时取消或未抵房间收取第一晚房费<br>
+                                - 如改变行程提前离店请提前24小时告知前台，酒店将有权对其
+                                未能及时通知取消收取一晚房费<br>
+                                - 对于延迟退房，酒店将按规定收取费用。 下午6点前退房，需
+                                支付所付房价的50%，6点以后退房，需支付全天房价<br>
+                                - 酒店入住时间为下午2点，离店时间为中午12点<br>
+                                尽享38平米安静舒适的双床客房 房间特点 房间面积38平方米 健
+                                全的浴室实施，配备热带雨林式花洒 高速无线网络 46英寸 LCD
+                                平板电视 配备闹钟 提供非吸烟楼层<br>
+                            </p>
+                        </div>
+                        <div class="swiper-slide">
+                            <p >
+                                - 在未提供公司或信用卡担保的情况下，酒店最多保留预订至到
+                                店当天下午6点（视酒店当日情况而定）<br>
+                                - 在担保情况下更改或取消预订请于到店当天下午6点前通知酒
+                                店，酒店将有权对其未能及时取消或未抵房间收取第一晚房费<br>
+                                - 如改变行程提前离店请提前24小时告知前台，酒店将有权对其
+                                未能及时通知取消收取一晚房费
+                            </p>
+                        </div>
+                    </div>
+                    <!--&lt;!&ndash; Add Pagination &ndash;&gt;-->
+                    <!--<div class="swiper-pagination a"></div>-->
+                </div>
+            </div>
+            <div class="room-inner-footer">
+                <h4>总金额：<span>899￥</span></h4>
+                <a href="javascript:;">立即支付</a>
+            </div>
+        </div>
+        <div class="swiper-slide menu dota_loL">
+            <ul>
+                <li><a href="index.html" class="active">康体娱乐</a></li>
+                <li><a href="meeting.html">会议会展</a></li>
+                <li><a href="marry.html">婚庆宴会</a></li>
+                <li><a href="guest.html">舒适客房</a></li>
+                <li><a href="foodList.html">餐饮美食</a></li>
+                <li><a href="shangwubangong.html">商务办公</a></li>
+            </ul>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+<script>
+    var swiper2 = new Swiper('.swiper-container.a', {
+        pagination: '.swiper-pagination',
+        paginationType: 'progress'
+    });
+</script>
+</body>
+</html>

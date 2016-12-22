@@ -1,0 +1,55 @@
+.indexBg {
+  width: 100%;
+  height: 100%;
+  background: url("../images/index_bg.png") no-repeat;
+  background-size: cover;
+}
+.indexBg .leftNav {
+  width: 41.33333333%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+.indexBg .leftNav .indexLogo {
+  width: 1.62rem;
+  height: 1.42rem;
+  left: 0.74rem;
+  top: 0.48rem;
+  background: url("../images/indexLogo.png") no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+.leftNav ul {
+  width: 1.68rem;
+  position: absolute;
+  left: 0.68rem;
+  top: 2.62rem;
+}
+.leftNav ul li {
+  line-height: 1.06rem;
+  font-size: 0.32rem;
+  text-align: center;
+  padding-bottom: 0.02rem;
+  position: relative;
+  font-weight: bold;
+  font-family: "苹方";
+}
+.leftNav ul li:after {
+  content: "";
+  display: block;
+  width: 1.68rem;
+  height: 0.02rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0), #ffffff, rgba(255, 255, 255, 0));
+}
+.leftNav ul li a {
+  color: #fff;
+}
+.leftNav ul li a:active {
+  color: #C98010;
+}
+.leftNav ul li .active {
+  color: #C98010;
+}

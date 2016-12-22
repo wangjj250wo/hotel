@@ -1,0 +1,50 @@
+{
+  "1": {
+    "imgSrc": ["images/room-banner6.jpg","images/room-banner1.jpg","images/room-banner3.jpg"],
+    "title": "豪华套房",
+    "p":"客房设施齐全、舒适房间色调柔和，充满东方古典韵味<br>设有步入式衣帽间，休息区与工作区<br>提供全方位的至尊享受。",
+    "h5Img":"images/r-sm_03.jpg",
+    "h5":["液晶屏幕电视","宽带网线接入  高速无线上网","迷你酒吧","全套豪华卫浴用品","宽敞豪华的大理石浴室","步入式衣帽间","中央空调系统","电子密码保险柜","免费瓶装水"],
+    "roomInnerUrl":"room-inner.html?id=1"
+  },
+  "2": {
+    "imgSrc": ["images/room-banner1.jpg","images/room-banner2.jpg","images/room-banner4.jpg"],
+    "title": "行政套房",
+    "p":"客房设施齐全、舒适房间色调柔和，充满东方古典韵味<br>设有步入式衣帽间，休息区与工作区<br>提供全方位的至尊享受。",
+    "h5Img":"images/r-sm_03.jpg",
+    "h5":["液晶屏幕电视","宽带网线接入  高速无线上网","迷你酒吧","全套豪华卫浴用品","宽敞豪华的大理石浴室","步入式衣帽间","中央空调系统","电子密码保险柜","免费瓶装水"],
+    "roomInnerUrl":"room-inner.html?id=2"
+  },
+  "3": {
+    "imgSrc": ["images/room-banner2.jpg","images/room-banner3.jpg","images/room-banner5.jpg"],
+    "title": "豪华大床房",
+    "p":"客房设施齐全、舒适房间色调柔和，充满东方古典韵味<br>设有步入式衣帽间，休息区与工作区<br>提供全方位的至尊享受。",
+    "h5Img":"images/r-sm_03.jpg",
+    "h5":["液晶屏幕电视","宽带网线接入  高速无线上网","迷你酒吧","全套豪华卫浴用品","宽敞豪华的大理石浴室","步入式衣帽间","中央空调系统","电子密码保险柜","免费瓶装水"],
+    "roomInnerUrl":"room-inner.html?id=3"
+  },
+  "4": {
+    "imgSrc": ["images/room-banner3.jpg","images/room-banner4.jpg","images/room-banner6.jpg"],
+    "title": "精品特色房",
+    "p":"客房设施齐全、舒适房间色调柔和，充满东方古典韵味<br>设有步入式衣帽间，休息区与工作区<br>提供全方位的至尊享受。",
+    "h5Img":"images/r-sm_03.jpg",
+    "h5":["液晶屏幕电视","宽带网线接入  高速无线上网","迷你酒吧","全套豪华卫浴用品","宽敞豪华的大理石浴室","步入式衣帽间","中央空调系统","电子密码保险柜","免费瓶装水"],
+    "roomInnerUrl":"room-inner.html?id=4"
+  },
+  "5": {
+    "imgSrc": ["images/room-banner4.jpg","images/room-banner5.jpg","images/room-banner1.jpg"],
+    "title": "普通大床房",
+    "p":"客房设施齐全、舒适房间色调柔和，充满东方古典韵味<br>设有步入式衣帽间，休息区与工作区<br>提供全方位的至尊享受。",
+    "h5Img":"images/r-sm_03.jpg",
+    "h5":["液晶屏幕电视","宽带网线接入  高速无线上网","迷你酒吧","全套豪华卫浴用品","宽敞豪华的大理石浴室","步入式衣帽间","中央空调系统","电子密码保险柜","免费瓶装水"],
+    "roomInnerUrl":"room-inner.html?id=5"
+  },
+  "6": {
+    "imgSrc": ["images/room-banner5.jpg","images/room-banner6.jpg","images/room-banner2.jpg"],
+    "title": "标准双人间",
+    "p":"客房设施齐全、舒适房间色调柔和，充满东方古典韵味<br>设有步入式衣帽间，休息区与工作区<br>提供全方位的至尊享受。",
+    "h5Img":"images/r-sm_03.jpg",
+    "h5":["液晶屏幕电视","宽带网线接入  高速无线上网","迷你酒吧","全套豪华卫浴用品","宽敞豪华的大理石浴室","步入式衣帽间","中央空调系统","电子密码保险柜","免费瓶装水"],
+    "roomInnerUrl":"room-inner.html?id=6"
+  }
+}

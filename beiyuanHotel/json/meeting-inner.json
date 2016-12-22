@@ -1,0 +1,30 @@
+{
+  "1":[
+    {"imgsrc":"images/auditorium_07.jpg","name":"第一会议室","area":"156㎡","spec":"高5m*长16m*宽9.8m","one":"中型会议室，可举办百人规模的会议。","two":"桌型可根据需求摆放。","three":"会议用声光电数码设施齐备。"},
+    {"imgsrc":"images/auditorium_08.jpg","name":"第二会议室","area":"250㎡","spec":"高4.8m*长17m*宽14.7m","one":"中型会议室，可举办200人以下规模的会议。","two":"桌型可根据需求摆放。","three":"会议用声光电数码设施齐备。"},
+    {"imgsrc":"images/auditorium_09.jpg","name":"第三会议室","area":"158㎡","spec":"高4.8m*长17m*宽9.3m","one":"中型会议室，可举办百人规模的会议。","two":"桌型可根据需求摆放。","three":"会议用声光电数码设施齐备。"},
+    {"imgsrc":"images/auditorium_10.jpg","name":"第四会议室","area":"78㎡","spec":"高4.8m*长8.4m*宽9.3m","one":"小型会议室，可举办50人以下规模的会议。","two":"桌型可根据需求摆放。","three":"会议用声光电数码设施齐备。"},
+    {"imgsrc":"images/auditorium_06.jpg","name":"第五会议室","area":"78㎡","spec":"高4.8m*长8m*宽9.3m","one":"小型会议室，可举办50人以下规模的会议。","two":"桌型可根据需求摆放。","three":"会议用声光电数码设施齐备。"},
+    {"imgsrc":"images/auditorium_05.jpg","name":"第六会议室","area":"80㎡","spec":"高3.2m*长9.4m*宽8.6m","one":"小型会议室，可举办50人以下规模的会议。","two":"桌型可根据需求摆放。","three":"会议用声光电数码设施齐备。"},
+    {"imgsrc":"images/auditorium_11.jpg","name":"第七会议室","area":"89㎡","spec":"高3.2m*长10.16m*宽8.82m","one":"小型会议室，可举办50人左右规模的会议。","two":"桌型可根据需求摆放。","three":"会议用声光电数码设施齐备。"},
+    {"imgsrc":"images/auditorium_04.jpg","name":"第八会议室","area":"86㎡","spec":"高2.9m*长10m*宽8.62m","one":"小型会议室，可举办50人左右规模的会议。","two":"桌型可根据需求摆放。","three":"会议用声光电数码设施齐备。"},
+    {"imgsrc":"images/auditorium_02.jpg","name":"贵宾接待室","area":"36㎡","spec":"高4.8m*长4m*宽9m","one":"仅供接待重要宾客休憩使用。","two":"按照客户要求放置沙发和茶几。","three":"可提供管家式服务。"},
+    {"imgsrc":"images/auditorium_03.jpg","name":"多功能厅","area":"100㎡","spec":"高3.2m*长14.5m*宽6.9m","one":"中型会议厅。可按各类会议需要布置陈设。","two":"可举办150人左右规模的会议。","three":"会议用声光电数码设施齐备。专业人员调试。"}
+  ],
+  "2":[
+    {"imgsrc":"images/banquet.jpg","name":"宴会厅","area":"156㎡","spec":"高5m*长20m*宽10m","one":"最多可容纳六百人用餐","two":"可举办婚宴、招待宴、聚会、酒会等类型","three":"厅堂可根据需求隔断。各具风格"},
+    {"imgsrc":"images/auditorium_02.jpg","name":"宴会厅","area":"654㎡","spec":"高5m*长16m*宽9.8m","one":"最多可容纳六百人用餐","two":"可举办婚宴、招待宴、聚会、酒会等类型","three":"厅堂可根据需求隔断。各具风格"},
+    {"imgsrc":"images/auditorium_01.jpg","name":"宴会厅","area":"1100㎡","spec":"高5m*长40m*宽25m","one":"最多可容纳六百人用餐","two":"可举办婚宴、招待宴、聚会、酒会等类型","three":"厅堂可根据需求隔断。各具风格"},
+    {"imgsrc":"images/auditorium_04.jpg","name":"宴会厅","area":"156㎡","spec":"高5m*长30m*宽6m","one":"最多可容纳六百人用餐","two":"可举办婚宴、招待宴、聚会、酒会等类型","three":"厅堂可根据需求隔断。各具风格"},
+    {"imgsrc":"images/auditorium_05.jpg","name":"宴会厅","area":"268㎡","spec":"高5m*长12m*宽19m","one":"最多可容纳六百人用餐","two":"可举办婚宴、招待宴、聚会、酒会等类型","three":"厅堂可根据需求隔断。各具风格"},
+    {"imgsrc":"images/auditorium_06.jpg","name":"宴会厅","area":"745㎡","spec":"高5m*长20m*宽17m","one":"最多可容纳六百人用餐","two":"可举办婚宴、招待宴、聚会、酒会等类型","three":"厅堂可根据需求隔断。各具风格"}
+  ],
+  "3":[
+    {"imgsrc":"images/auditorium_03.jpg","name":"报告厅","area":"156㎡","spec":"高5m*长20m*宽10m","one":"专业的会议技术支持","two":"专属会议管家","three":"现代化的会议设备及活动设施"},
+    {"imgsrc":"images/auditorium_02.jpg","name":"报告厅","area":"654㎡","spec":"高5m*长16m*宽9.8m","one":"专业的会议技术支持","two":"专属会议管家","three":"现代化的会议设备及活动设施"},
+    {"imgsrc":"images/auditorium_01.jpg","name":"第一会议室","area":"1100㎡","spec":"高5m*长40m*宽25m","one":"专业的会议技术支持","two":"专属会议管家","three":"现代化的会议设备及活动设施"},
+    {"imgsrc":"images/auditorium_04.jpg","name":"报告厅","area":"156㎡","spec":"高5m*长30m*宽6m","one":"专业的会议技术支持","two":"专属会议管家","three":"现代化的会议设备及活动设施"},
+    {"imgsrc":"images/auditorium_05.jpg","name":"报告厅","area":"268㎡","spec":"高5m*长12m*宽19m","one":"专业的会议技术支持","two":"专属会议管家","three":"现代化的会议设备及活动设施"},
+    {"imgsrc":"images/auditorium_06.jpg","name":"报告厅","area":"745㎡","spec":"高5m*长20m*宽17m","one":"专业的会议技术支持","two":"专属会议管家","three":"现代化的会议设备及活动设施"}
+  ]
+}

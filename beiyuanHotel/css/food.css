@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #190d07;
+}
+.bigBox {
+  position: relative;
+}
+.swiper-container img {
+  width: 100%;
+  height: 100%;
+}
+h3 {
+  color: #fff;
+  text-align: center;
+  margin: 0.48rem 0 0.28rem;
+  font-size: 0.32rem;
+}
+p {
+  color: #fff;
+  height: 0.28rem;
+  font-size: 0.24rem;
+  margin-bottom: 0.18rem;
+  text-align: center;
+}
+.foodPlace {
+  margin: 0.4rem 0 0.24rem;
+}
+.wordColor {
+  color: #cccccc;
+}
+.markBtn {
+  width: 2.44rem;
+  height: 0.58rem;
+  border: 0.04rem solid #fff;
+  text-align: center;
+  margin: 0 auto;
+  color: #fff;
+  font: 0.28rem/0.58rem "黑体";
+  margin-top: 0.64rem;
+}
+.callNum {
+  width: 5.4rem;
+  height: 2.1rem;
+  background: #fff;
+  position: absolute;
+  left: 15%;
+  top: 65%;
+  border-radius: 0.1rem;
+  font-size: 0.36rem;
+  color: #0096ff;
+  text-align: center;
+  opacity: 0.9;
+  display: none;
+}
+.callNum .number {
+  width: 100%;
+  height: 1.3rem;
+  line-height: 1.3rem;
+  border-bottom: 0.01rem solid #d5d5d5;
+}
+.callNum .numBot {
+  line-height: 0.8rem;
+}
+.callNum .remove {
+  width: 50%;
+  height: 0.8rem;
+  float: left;
+  border-right: 0.01rem solid #d5d5d5;
+}
+.bigBox .cTitle {
+  text-align: center;
+}
